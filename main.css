@@ -1,0 +1,17 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font: 100%/1.5 Georgia, serif;
+}
+
+img {
+    display: block;
+    max-width: 100%;
+}
+
+.site-header {
+    background: #eee;
+    padding: 2em;
+}
